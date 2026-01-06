@@ -1,0 +1,1 @@
+build a GUI app for monitoring/controlling user created daemons, while learning QT
